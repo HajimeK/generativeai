@@ -159,3 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 excercise/Generating One Token at a Time/data/**
+excercise/PyTorchHF/data/**
