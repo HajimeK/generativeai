@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 excercise/Generating One Token at a Time/data/**
 excercise/PyTorchHF/data/**
+excercise/Foundation Model/data/**
