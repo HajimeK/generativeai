@@ -162,3 +162,4 @@ excercise/Generating One Token at a Time/data/**
 excercise/PyTorchHF/data/**
 excercise/Foundation Model/data/**
 project/data/**
+project/sentiment-lora/**
