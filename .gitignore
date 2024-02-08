@@ -163,3 +163,4 @@ excercise/PyTorchHF/data/**
 excercise/Foundation Model/data/**
 project/data/**
 project/sentiment-lora/**
+api_keys/*.key
