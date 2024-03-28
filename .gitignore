@@ -167,3 +167,4 @@ api_keys/*.key
 excercise/Transformer Based Computer Vision Models/sample/**
 excercise/Transformer Based Computer Vision Models/ptm/**
 project/Personalized Real Estate Agent/data/**
+project/Personalized Carrier Agent/data/**
